@@ -6,6 +6,8 @@ public class Test {
 		System.out.println("Hello World");
 		
 		System.out.println("This is Second Commit");
+
+		System.out.println("This is 3rd Commit");
 		
 	}
 
